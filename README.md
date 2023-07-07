@@ -3,7 +3,9 @@ This is the official code accompanying a paper on the [Faux Pas EAI](https://www
 
 ## Summary
 * Experts-based dataset with faux pas stories, questions, and answers
-* A code for dataset-parser, dataset-evaluation and APIs for GPT4, GPT3.5, FlanT5, FlanUl2, AI21
+* A code for dataset-parser
+* A code for dataset-evaluation
+* A code for APIs for LLMs: GPT4, GPT3.5, FlanT5, FlanUl2, AI21
 
 ## Citation
 
