@@ -1,5 +1,5 @@
 # FauxPasEAI
-This is the official code accompanying a paper on the [Faux Pas EAI](https://www.aclweb.org/anthology/2023..pdf) presented at Findings of ACL 2023.
+This is the official code accompanying a paper on the [How Well Do Large Language Models Perform on Faux Pas Tests?](https://www.aclweb.org/anthology/2023..pdf) presented at Findings of ACL 2023.
 
 ## Summary
 * Experts-based dataset with faux pas stories, questions, and answers
@@ -19,7 +19,7 @@ If you make use of this software for research, we would appreciate the following
   year={2023}
 }
 ```
-Title: [Faux Pas EAI](https://www.aclweb.org/anthology/2023..pdf)
+Title: [How Well Do Large Language Models Perform on Faux Pas Tests?](https://www.aclweb.org/anthology/2023..pdf)
 
 
 Authors:  Natalie Shapira, Guy Zwirn, Yoav Goldberg
