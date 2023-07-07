@@ -1,0 +1,84 @@
+FlanT5 google/flan-t5-xl
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Prompt: Faux Pas is defined as "when a speaker says something without considering if it is something that the listener might not want to hear or know, and which typically has negative consequences that the speaker never intended"
+ Here are two stories that contains faux pas: 
+Story 1: 
+All of the class took part in a story competition. Emma really wanted to win. Whilst she was away from school, the results of the competition were announced: Alice was the winner. The next day, Alice saw Emma and said "I'm sorry about your story." "What do you mean?" said Emma. "Oh nothing," said Alice. 
+
+In the story did someone say something that they should not have said? 
+Yes 
+What did they say that they should not have said? 
+"I'm sorry about your story." 
+Did Alice realize that Emma hadn't heard the results of the competition? 
+No 
+Story 2: 
+Robert had just started at a new school. He said to his new friend, Andrew, "My Mum is a dinner lady at this school." Then Claire came over and said, "I hate dinner ladies. They're horrible." "Do you want to come and play rounders?" Andrew asked Claire. "No" she replied "I'm not feeling very well." 
+
+In the story did someone say something that they should not have said? 
+Yes 
+What did they say that they should not have said? 
+"I hate dinner ladies. They're horrible." 
+Did Clare know that Robert's Mum was a dinner lady? 
+No 
+
+And here are two control stories (i.e., that do not contains faux pas): 
+Control Story 1: 
+All of the class took part in a poetry competition. Jane really wanted to win. While she was away, the results of the competition were announced: Mary was the winner. The next day, Jane bumped into Mary. Mary said "How are you feeling?". "Fine thanks?" said Jane, "Oh good" said Mary. 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Control Story 2: 
+David had just started at a new school. He said to his new friend, Mike, "My Mum is a teacher in this school." Then Jeff came over. "I hate school" he told them, "It's so small." "Do you want to come and play rounders?" Mike asked Jeff. "No" he replied "I'm not feeling very well." 
+
+In the story did someone say something that they should not have said? 
+No 
+
+--- 
+
+Create new 10 faux pas stories and 10 control stories, make sure that (1) the stories are divers with different topics, places, names, situations, emotions 
+(2) the stories contain conversation (at least 2 different quotes), 
+(3) in the faux pas stories there is a sentence to cite which could be the answer to "What did they say that they should not have said?" 
+(4) the faux pas story contain a character that didn't know/remember something and that's what causes the faux pas. 
+(5) the control stories are similar to the faux pas stories, and that contains some conversation that might confuse like as if it contains a faux pas, but without faux pas
+**************************************
+--------------------------------------
+(For example: "I hate dinner ladies.")" or "I hate rounders."
+--------------------------------------
+"I love school" or "I like people" or "I hate school" could be sentences when a faux pas story occured.
+--------------------------------------
+They said that they don't want to hear the story they lost
+--------------------------------------
+Stories are sorted after the criteria from the assignment prompt.
+--------------------------------------
+Each story was about two people who say something that they should not have said. For Faux Pas story: "I'm sorry about your story." for example: story 1: I'm sorry about your story. Did someone say what the others should not have said? story 2: I hate dinner ladies. They're horrible. Did Clare know that Robert's Mum was a dinner lady? Yes
+--------------------------------------
+(1), (2), (3), (4), (5)
+--------------------------------------
+(1) A lot of people think you are lying, but that's not true. Do you really want to hear my story? (2) In the story that has a faux pas someone says something that is not correct
+--------------------------------------
+)
+--------------------------------------
+(6) the control stories are similar to the faux pas stories, and that contains some conversation that might confuse like as if it contains a faux pas, but without faux pas
+--------------------------------------
+(1) The stories are divers with different topics, places, names, situations, emotions (2) the stories contain conversation (at least 2 different quotes), (3) in the faux pas stories there is a sentence to cite which could be the answer to "What did they say that they should not have said." (4) the faux pas story contain a character that didn't know/remember something and that's what causes the faux pas. (5) the control stories are similar to the faux pas stories, and that contains some conversation that might confuse like as if it contains a faux pas, but without faux pas.
+--------------------------------------
+(1) the stories are divers with different topics, places, names, situations, emotions. (2) the stories contain conversation (at least 2 different quotes), (3) in the faux pas stories there is a sentence to cite which could be the answer to "What did they say that they should not have said?" (4) the faux pas story contain a character that didn't know/remember something and that's what causes the faux pas. (5) the control stories are similar to the faux pas stories, and that contains some conversation that might confuse like as if it contains a faux pas, but without faux pas
+--------------------------------------
+The stories must contain conversation, a sentence or lines to cite, and a character that didn't know or remember something and that's what causes the faux pas. - ---
+--------------------------------------
+---
+--------------------------------------
+yes
+--------------------------------------
+(Emma, Richard, Clare.)
+--------------------------------------
+A: "I'm sorry about your story "B: "That's terrible."C: "I don't know if that'll work.
+--------------------------------------
+"I wish we could talk."
+--------------------------------------
+You are supposed to put some sort of a guideline on the faux pas stories stating which sentence you are looking for which is what might have been the faux pas sentence, and what sentence you are looking for the control stories about, which is without that sentence. And you may decide to have two different scenarios of two different control stories, where the character doesn't say anything they shouldn't, and where they say something they shouldn't.
+--------------------------------------
+i.e. they didn't realize that his story was wrong
+--------------------------------------
+(1) the stories are divers with different topics, places, names, situations, emotions (2) the stories contain conversation (at least 2 different quotes), (3) in the faux pas stories there is a sentence to cite which could be the answer to "What did they say that they should not have said?" (4) the faux pas story contain a character that didn't know/remember something and that's what causes the faux pas. (5) the control stories are similar to the faux pas stories, and that contains some conversation that might confuse like as if it contains a faux pas, but without faux pas.

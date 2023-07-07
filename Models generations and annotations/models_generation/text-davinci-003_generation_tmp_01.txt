@@ -1,0 +1,61 @@
+. 
+
+Faux Pas Story 1: 
+John and his family were visiting his grandmother for the weekend. His grandmother asked him how school was going and he said "It's okay, but I'm not doing very well in math." His grandmother then said "Oh, that's too bad. Your father was never very good at math either." John was embarrassed because he had forgotten that his father had struggled with math in school. 
+
+What did they say that they should not have said? 
+"Your father was never very good at math either." 
+
+Faux Pas Story 2: 
+Sara and her friends were at the mall. They were looking at clothes when one of her friends, Emily, said "I love this dress, but I don't think I can afford it." Sara then said "You don't have to worry about money, your parents are rich." Emily was embarrassed because she had forgotten that her parents were wealthy. 
+
+What did they say that they should not have said? 
+"You don't have to worry about money, your parents are rich." 
+
+Faux Pas Story 3: 
+Tom and his friends were at a party. One of his friends, Jake, was talking about his new job. Tom then said "That's great, but it's not as good as my job." Jake was embarrassed because he had forgotten that Tom had a higher-paying job. 
+
+What did they say that they should not have said? 
+"That's great, but it's not as good as my job." 
+
+Faux Pas Story 4: 
+Nina and her family were at a restaurant. Her brother, Jack, was talking about his new car when Nina said "That's nice, but it's not as nice as my car." Jack was embarrassed because he had forgotten that Nina had a nicer car. 
+
+What did they say that they should not have said? 
+"That's nice, but it's not as nice as my car." 
+
+Faux Pas Story 5: 
+Sam and his friends were at the movies. One of his friends, Alex, was talking about his new girlfriend when Sam said "That's great, but she's not as pretty as my girlfriend." Alex was embarrassed because he had forgotten that Sam had a more attractive girlfriend. 
+
+What did they say that they should not have said? 
+"That's great, but she's not as pretty as my girlfriend." 
+
+Control Story 1: 
+John and his family were visiting his grandmother for the weekend. His grandmother asked him how school was going and he said "It's okay, but I'm not doing very well in math." His grandmother then said "Oh, that's too bad. Have you tried studying with a tutor?" 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Control Story 2: 
+Sara and her friends were at the mall. They were looking at clothes when one of her friends, Emily, said "I love this dress, but I don't think I can afford it." Sara then said "That's too bad. Maybe you can find something similar for a cheaper price." 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Control Story 3: 
+Tom and his friends were at a party. One of his friends, Jake, was talking about his new job. Tom then said "That's great. What kind of job is it?" 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Control Story 4: 
+Nina and her family were at a restaurant. Her brother, Jack, was talking about his new car when Nina said "That's nice. What kind of car is it?" 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Control Story 5: 
+Sam and his friends were at the movies. One of his friends, Alex, was talking about his new girlfriend when Sam said "That's great. How did you meet her?" 
+
+In the story did someone say something that they should not have said? 
+No
