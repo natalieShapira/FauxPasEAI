@@ -1,0 +1,25 @@
+
+
+Faux Pas Story 1: 
+John and his family had just moved to a new town. He was walking around the town square when he saw his old friend, Sarah. "Hey Sarah!" he said, "I heard your parents got divorced. I'm so sorry." Sarah was taken aback. She had not told anyone about her parents' divorce yet. "What do you mean?" she asked. "Oh, nothing," said John. 
+
+What did they say that they should not have said? 
+"I heard your parents got divorced. I'm so sorry." 
+
+Control Story 1: 
+John and his family had just moved to a new town. He was walking around the town square when he saw his old friend, Sarah. "Hey Sarah!" he said, "I heard your parents moved to a new house. That's great!" Sarah was taken aback. She had not told anyone about her parents' move yet. "What do you mean?" she asked. "Oh, nothing," said John. 
+
+In the story did someone say something that they should not have said? 
+No 
+
+Faux Pas Story 2: 
+Jill and her friends were at a party. She was talking to her friend, Tom, when her ex-boyfriend, Jake, walked in. "Hey Jake," said Tom, "I heard you and Jill broke up. That's too bad." Jill was embarrassed. She had not told anyone about her break-up yet. "What do you mean?" she asked. "Oh, nothing," said Tom. 
+
+What did they say that they should not have said? 
+"I heard you and Jill broke up. That's too bad." 
+
+Control Story 2: 
+Jill and her friends were at a party. She was talking to her friend, Tom, when her ex-boyfriend, Jake, walked in. "Hey Jake," said Tom, "I heard you and Jill had a fight. That's too bad." Jill was embarrassed. She had not told anyone about her fight yet. "What do you mean?" she asked. "Oh, nothing," said Tom. 
+
+In the story did someone say something that they should not have said? 
+No
